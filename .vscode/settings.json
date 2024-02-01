@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "random": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
+    },
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}

@@ -1,0 +1,3 @@
+/home/ruihan11/Documents/YSYX_Project/verilator_test/build/CMakeFiles/Vour.dir
+/home/ruihan11/Documents/YSYX_Project/verilator_test/build/CMakeFiles/edit_cache.dir
+/home/ruihan11/Documents/YSYX_Project/verilator_test/build/CMakeFiles/rebuild_cache.dir
