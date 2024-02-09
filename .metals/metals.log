@@ -15,3 +15,11 @@ INFO: Unsupported notification method: $/setTrace
 2024.01.26 19:19:49 INFO  Shutting down server[0m
 2024.01.26 19:19:49 INFO  shutting down Metals[0m
 2024.01.26 19:19:49 INFO  Exiting server[0m
+2024.02.01 17:12:20 INFO  Started: Metals version 1.2.0 in folders '/home/ruihan11/Documents/YSYX_Project' for client Visual Studio Code 1.85.2.[0m
+2024.02.01 17:12:21 WARN  Build server is not auto-connectable.[0m
+2024.02.01 17:12:21 WARN  no build tool detected in workspace '/home/ruihan11/Documents/YSYX_Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Feb 01, 2024 5:12:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.02.01 18:05:29 INFO  Shutting down server[0m
+2024.02.01 18:05:29 INFO  shutting down Metals[0m
+2024.02.01 18:05:29 INFO  Exiting server[0m
